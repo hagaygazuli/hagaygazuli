@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hagaygazuli
-- 👀 I’m interested SW Architect and Python Backend Engineering 
-- 🌱 I’m currently learning AI
-- 💞️ I’m looking to collaborate on ...
+- 👀 main interest are SW Architect and Python Backend Engineering 
+- 🌱 I’m currently learning new stuff (as always ;)
+- 💞️ I’m looking to collaborate on Fintech
 - 📫 You can reach me via Linkedin
 
 <!---
